@@ -37,9 +37,9 @@ Here are some of the projects I've worked on:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanyogeeeta\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanyogeeta\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyogeeeta\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyogeeta\&layout=compact\&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
